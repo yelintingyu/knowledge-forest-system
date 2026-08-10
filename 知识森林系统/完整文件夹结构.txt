@@ -1,0 +1,37 @@
+knowledge-forest/
+├── README.md
+├── LICENSE
+├── .github/
+│   └── CONTRIBUTING.md
+├── 文档（docs）/
+│   ├── 哲学（philosophy）.md
+│   ├── 架构（architecture）.md
+│   ├── 规则（rules）/
+│   │   ├── 土壤与种子（soil-and-seed）.md
+│   │   ├── 根系系统（root-system）.md
+│   │   ├── 养分浓度（nutrient-concentration）.md
+│   │   ├── 主干构建（trunk-building）.md
+│   │   ├── 枝叶（branch-and-leaf）.md
+│   │   ├── 开花（flowering）.md
+│   │   ├── 嫁接（grafting）.md
+│   │   ├── 修剪与黄叶（pruning-and-yellowing）.md
+│   │   └── 结果与反哺（fruiting-and-feedback）.md
+│   └── 搭建指南（setup-guide）.md
+├── 模板（templates）/
+│   ├── 种子模板（t-core-seed）.md
+│   ├── 几何主干模板（t-geometric-trunk）.md
+│   ├── 树干模板（t-trunk）.md
+│   ├── 叶片模板（t-leaf）.md
+│   ├── 问题模板（t-question）.md
+│   ├── 花朵模板（t-flower）.md
+│   ├── 嫁接模板（t-graft）.md
+│   └── 果实复盘模板（t-fruit-review）.md
+├── 工具（tools）/
+│   └── 伙伴示例（obsidian-buddy-example）.py
+├── 示例（examples）/
+│   └── 设计森林示例（example-design-forest）.md
+└── 提示词（prompts）/
+    ├── 生成主干（generate-trunk）.md
+    ├── 生成花朵（generate-flowers）.md
+    ├── 建议嫁接（suggest-grafts）.md
+    └── 复盘果实（debrief-fruit）.md
